@@ -1,0 +1,139 @@
+
+body {
+    background-image: url(./Images/background-vector-509034.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+    
+}
+.logo {
+    width: 8%;
+    background-color: white;
+}
+.logo2 {
+    width: 20%;
+}
+.bg-blue {
+    color: rgb(32, 32, 177);
+}
+.button {
+    margin-left: 44%;
+   margin-bottom: 5%;
+}
+.visit:hover {
+    background-color: rgb(32, 32, 177);
+}
+.font {
+    
+    font-size: small;
+    font-style: italic;
+}
+.font1 {
+    font-size: 18px;
+}
+.font2 {
+    font-size: 40px;
+    font-style: italic;
+}
+.font3 {
+    font-size: 50px;
+}
+.image2 {
+    width: 100px;
+}
+
+.margin {
+    margin-right: 25%;
+}
+
+.padding {
+    padding: 10% 200% ;
+}
+.background2 {
+    background-image: url(./Images/background.jpeg);
+    background-repeat: no-repeat;
+    height: 70vh;
+background-position:top;
+    overflow: hidden;
+    background-size: cover;
+}
+.back {
+text-align: center;
+font-size: 45px;
+font-style: italic;
+}
+.video1 {
+    width: 80%;
+border-radius: 5%;
+
+}
+.video2 {
+    width: 50%;
+    border-radius: 5%;
+}
+.video3 {
+    width: 20%;
+}
+.bg-creamwhite {
+    background-color: rgb(198, 223, 231);
+    border-radius: 200px;
+}
+
+.bg-white1 {
+    background-color: white;
+    border-radius:50px;
+    
+ 
+}
+.bg-pitch {
+    background-color: gainsboro;
+    padding-top: 5%;
+}
+.subscribe1 {
+    text-align: center;
+    font-style: italic;
+}
+.h2 {
+    font-size: medium;
+    text-align: center;
+}
+.image2 {
+    width: 220px;
+    height: 200px; 
+}
+
+.bg-darkblue {
+    background-color:rgb(31, 31, 48) ;
+}
+
+.zoom {
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.2);
+  }
+
+.subscribe {
+    text-align: center;
+    font-size: 30px;
+}
+.para {
+    font-size: large;
+}
+
+.mr {
+    margin-left: 40%;
+    
+
+}
+
+
+@media all and (max-width:480px) {
+    .size {
+        width:256px ;
+        height:144px ;
+    }
+}
